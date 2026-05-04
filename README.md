@@ -36,7 +36,7 @@ Dado que el proyecto utiliza únicamente bibliotecas nativas de Python, no es ne
 Clona este repositorio y ejecuta el script que desees usando la terminal:
 
 ```bash
-git clone 
+git clone https://github.com/sebashtmll/Prueba-diagn-stica.git 
 cd tu-repositorio
 
 # Ejecutar el Problema 1
